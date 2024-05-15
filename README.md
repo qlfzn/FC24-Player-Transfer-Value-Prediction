@@ -32,10 +32,11 @@ Kaggle: https://www.kaggle.com/datasets/mdkabinhasan/trending-fifa-players-datas
    - Check for possibility of overfitting by computing R-squared score
   
 # Findings
+
 R-squared scores: 
 
-LinearRegression :  0.7440433497125863
-RandomForestRegressor :  0.9615591064665927
+# LinearRegression :  0.7440433497125863 
+# RandomForestRegressor :  0.9615591064665927
 
 As the result, RandomForestRegressor's predictions are closer to the actual values than LogisticRegression
 
